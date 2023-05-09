@@ -1,3 +1,3 @@
 # Omar-Anbari
-username: YWRtaW4=
-  password: c0NhbGVpbzEyMw==
+#db.default.user="YWRtaW4="
+  #db.default.password="c0NhbGVpbzEyMw=="
